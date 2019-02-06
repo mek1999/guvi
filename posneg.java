@@ -11,7 +11,6 @@ class Ideone
 	{
 		int a;
 		Scanner s=new Scanner(System.in);
-		System.out.println("");
 		a=s.nextInt();
 		if(a>=1)
 		{
