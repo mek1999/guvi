@@ -16,6 +16,10 @@ class Ideone
 		{
 			System.out.println("Even");
 		}
+		else if(a%2<0)
+		{
+			System.out.println("invalid");
+		}
 		else
 		{
 			System.out.println("Odd");
