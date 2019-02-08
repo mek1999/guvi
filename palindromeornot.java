@@ -21,7 +21,7 @@ class Ideone
 		}
 		if(temp==sum)
 		{
-		   System.out.println(" yes ");    
+		   System.out.println("yes");    
 		}
 		else    
 		{
