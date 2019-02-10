@@ -5,11 +5,11 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{	
-		int i,a,b;
+		int i,n,q;
 		Scanner s=new Scanner(System.in);
-		a=s.nextInt();
-		b=s.nextInt();
-		for (i =a+1; i <b; i++) 
+		n=s.nextInt();
+		q=s.nextInt();
+		for (i =n+1; i <q; i++) 
 		{
 			if (i % 2 != 0) 
 			{
