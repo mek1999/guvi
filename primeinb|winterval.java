@@ -9,6 +9,7 @@ class vowel
         Scanner s=new Scanner(System.in);
         a=s.nextInt();
         b=s.nextInt();
+	a+=1;
         while(a<b) 
         {
             boolean flag = false;
