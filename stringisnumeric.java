@@ -24,7 +24,7 @@ class Ideone
         }
         else
         {
-            System.out.println("no");
+            System.out.println("No");
         }
 	}
 	
