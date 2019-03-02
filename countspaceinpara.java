@@ -5,19 +5,19 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		int count=0;
-		String str;
+		int c=0;
+		String string;
 		Scanner s=new Scanner(System.in);
-		str=s.nextLine();
-		for (int i = 0; i < str.length(); i++)
+		string=s.nextLine();
+		for (int i = 0; i < string.length(); i++)
 		{
-			if (str.charAt(i) == ' ') 
+			if (string.charAt(i) == ' ') 
 			{
-				count++;
+				c++;
  
 			}
 		}    
-		System.out.println(""+ count);
+		System.out.println(""+ c);
 		
 	}
 }
