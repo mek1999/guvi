@@ -11,7 +11,7 @@ class Ideone
 		string=s.nextLine();
 		for (int i = 0; i < string.length(); i++)
 		{
-			if (string.charAt(i) == ' ') 
+			if((string.charAt(i) == ' ')||(string.charAt(i)=='.')) 
 			{
 				c++;
  
