@@ -9,8 +9,9 @@ class Ideone
 	{
         StringBuffer sb= new StringBuffer();
 		Scanner input = new Scanner(System.in);
+		String s=".";
 		sb.append(input.nextLine());
-		System.out.println(""+sb+".");
+		System.out.println(sb.append(s));
 		// your code goes here
 	}
 }
