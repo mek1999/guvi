@@ -1,7 +1,6 @@
-import java.util.*;
-import java.lang.*;
 import java.io.*;
-public class String_K_Char
+import java.lang.*;
+public class String_Of_K_Char
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
