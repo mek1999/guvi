@@ -8,6 +8,10 @@ public class Ideone
 		Scanner sc=new Scanner(System.in);
 		int n;
 		n=sc.nextInt();
+		if(n==1)
+		{
+			System.out.print("yes");
+		}
 		if(n%2==0)
 		{
 			System.out.print("yes");
