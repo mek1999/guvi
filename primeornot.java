@@ -20,11 +20,11 @@ class Ideone
 
         if (!flag)
         {
-            System.out.println("yes");
+            System.out.print("yes");
         }
         else
         {
-            System.out.println("no");
+            System.out.print("no");
         }
 	}
 }
