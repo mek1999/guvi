@@ -10,7 +10,7 @@ public class Ideone
 		n=s.nextInt();
 		k=s.nextInt();
 		int a[]=new int[n];
-		for(int i=0;i<n;i++)
+		for(int i=1;i<n;i++)
 		{
 			a[i]=s.nextInt();
 		}
